@@ -884,3 +884,12 @@ label{
         font-size: 15px;
     }
 }
+@media(max-width:390px){
+    .inp1:checked + .nano{
+        background-color: #b9ff66;
+        height: 350px;
+    }
+    .name{
+        width: 65%;
+    }
+}
